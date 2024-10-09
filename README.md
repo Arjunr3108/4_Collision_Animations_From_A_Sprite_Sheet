@@ -1,4 +1,4 @@
-1. Live Demo at "https://arjunr3108.github.io/4-Collision-animations-from-a-sprite-sheet/".
+1. Visit "https://arjunr3108.github.io/4-Collision-animations-from-a-sprite-sheet" to view the live demo.
 
 2. This is a demo of Collision Animations.
 
